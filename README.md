@@ -1,4 +1,4 @@
-# cs151-colby
+# cs231-colby
 Coursework from CS231: Data Structures and Algorithms at Colby College
 
 [Project 1 Writeup](https://wiki.colby.edu/display/~ajkarale/Project+1)
