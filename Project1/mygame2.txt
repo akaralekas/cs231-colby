@@ -1,0 +1,12 @@
+Player is dealt: 14
+Dealer is dealt: 10
+Player Hand contents: 4, 10: 14
+Dealer Hand contents: 9, 1: 10
+Player wants to hit
+Player will stay with: 17
+Dealer wants to hit
+Dealer wants to hit
+Dealer will stay with: 18
+Dealer wins with hand of: 18
+Player Hand contents: 4, 10, 3: 17
+Dealer Hand contents: 9, 1, 3, 5: 18

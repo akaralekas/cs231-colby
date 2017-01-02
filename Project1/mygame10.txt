@@ -1,0 +1,10 @@
+Player is dealt: 17
+Dealer is dealt: 7
+Player Hand contents: 10, 7: 17
+Dealer Hand contents: 6, 1: 7
+Player will stay with: 17
+Dealer wants to hit
+Dealer will stay with: 17
+It is a PUSH!
+Player Hand contents: 10, 7: 17
+Dealer Hand contents: 6, 1, 10: 17

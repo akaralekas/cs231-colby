@@ -1,0 +1,9 @@
+Player is dealt: 5
+Dealer is dealt: 11
+Player Hand contents: 2, 3: 5
+Dealer Hand contents: 4, 7: 11
+Player wants to hit
+Player wants to hit
+Game is over! Player has busted and dealer wins!
+Player Hand contents: 2, 3, 10, 9: 24
+Dealer Hand contents: 4, 7: 11

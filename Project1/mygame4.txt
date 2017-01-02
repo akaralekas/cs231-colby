@@ -1,0 +1,10 @@
+Player is dealt: 20
+Dealer is dealt: 16
+Player Hand contents: 10, 10: 20
+Dealer Hand contents: 6, 10: 16
+Player will stay with: 20
+Dealer wants to hit
+Dealer will stay with: 19
+Player wins with hand of: 20
+Player Hand contents: 10, 10: 20
+Dealer Hand contents: 6, 10, 3: 19

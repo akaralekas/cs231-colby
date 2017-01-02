@@ -1,0 +1,11 @@
+Player is dealt: 16
+Dealer is dealt: 11
+Player Hand contents: 7, 9: 16
+Dealer Hand contents: 4, 7: 11
+Player will stay with: 16
+Dealer wants to hit
+Dealer wants to hit
+Dealer wants to hit
+Game is over! Dealer has busted and player wins!
+Player Hand contents: 7, 9: 16
+Dealer Hand contents: 4, 7, 4, 1, 10: 26
