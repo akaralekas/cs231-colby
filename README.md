@@ -5,7 +5,7 @@ Coursework from CS231: Data Structures and Algorithms at Colby College
 [| ~View PDF](https://github.com/akaralekas/cs231-colby/blob/master/Project1/writeup_cs231project1.pdf)
 
 [Project 2 Writeup](https://wiki.colby.edu/display/~ajkarale/Project+2)
-[| ~View PDF](https://github.com/akaralekas/cs231-colby/blob/master/Project1/writeup_cs231project2.pdf)
+| [~View PDF](https://github.com/akaralekas/cs231-colby/blob/master/Project1/writeup_cs231project2.pdf)
 
 [Project 3 Writeup](https://wiki.colby.edu/display/~ajkarale/Project+3)
 [|| ~View PDF](https://github.com/akaralekas/cs231-colby/blob/master/Project1/writeup_cs231project3.pdf)
